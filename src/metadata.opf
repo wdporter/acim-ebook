@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="70e99cb8-4e3e-4d04-a8be-4bfc7e6f1103" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier opf:scheme="uuid" id="uuid_id">545993e9-de27-460b-b48a-63c26e467c2f</dc:identifier>
+    <dc:title>A Course in Miracles</dc:title>
+    <dc:creator opf:file-as="Jesus" opf:role="aut">Jesus of Nazareth</dc:creator>
+    <dc:contributor opf:file-as="Porter, W. David" opf:role="bkp">David Porter</dc:contributor>
+    <dc:language>eng</dc:language>
+  </metadata>
+  <manifest>
+    <item href="chapter-1.xhtml" id="chapter-1" media-type="application/xhtml+xml"/>
+    <item href="chapter-2.xhtml" id="chapter-2" media-type="application/xhtml+xml"/>
+    <item href="introduction.xhtml" id="introduction" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="introduction"/>
+    <itemref idref="chapter-1"/>
+    <itemref idref="chapter-2"/>
+  </spine>
+  <guide/>
+</package>
