@@ -1,17 +1,32 @@
-p {
-	text-indent: 1.5em;
+h1, h2 {
+	text-align: center;
+}
+
+p.introduction {
+	font-style: italic;
 }
 
 p.principle {
 	font-weight: bold;
-	text-indent: initial;
+}
+
+blockquote.em {
+	font-style: italic;
+}
+
+ol {
+	margin-left: 1em;
+}
+
+ol.alpha {
+	counter-reset: a-counter;
+	list-style-type: none;
+}
+ol.alpha li:before {
+	content: counter(a-counter,lower-alpha) ') ';
+	counter-increment: a-counter;
 }
 
 span.lord {
 	font-variant: small-caps;
 }
-
-p.continue {
-	text-indent: initial;
-}
-
