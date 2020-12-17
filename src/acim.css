@@ -1,3 +1,17 @@
-p.small-caps {
+p {
+	text-indent: 1.5em;
+}
+
+p.principle {
+	font-weight: bold;
+	text-indent: initial;
+}
+
+span.lord {
 	font-variant: small-caps;
 }
+
+p.continue {
+	text-indent: initial;
+}
+
