@@ -19,7 +19,7 @@
     </navPoint>
     <navPoint id="num_2" playOrder="2">
       <navLabel>
-        <text>Chapter 1. Principles of Miracles</text>
+        <text>Chapter 1. Introduction to Miracles</text>
       </navLabel>
       <content src="chapter-1.xhtml"/>
     </navPoint>
