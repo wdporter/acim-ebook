@@ -29,5 +29,14 @@
       </navLabel>
       <content src="chapter-2.xhtml"/>
     </navPoint>
+
+
+    <navPoint id="num_50" playOrder="50">
+      <navLabel>
+        <text>Endnotes</text>
+      </navLabel>
+      <content src="endnotes.xhtml"/>
+    </navPoint>
+
   </navMap>
 </ncx>

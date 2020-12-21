@@ -10,13 +10,15 @@
   <manifest>
     <item href="chapter-1.xhtml" id="chapter-1" media-type="application/xhtml+xml"/>
     <item href="chapter-2.xhtml" id="chapter-2" media-type="application/xhtml+xml"/>
-    <item href="introduction.xhtml" id="introduction" media-type="application/xhtml+xml"/>
+		<item href="endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+    <!--<item href="introduction.xhtml" id="introduction" media-type="application/xhtml+xml"/>-->
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
   </manifest>
   <spine toc="ncx">
-    <itemref idref="introduction"/>
+    <!--<itemref idref="introduction"/>-->
     <itemref idref="chapter-1"/>
     <itemref idref="chapter-2"/>
+		<itemref idref="endnotes.xhtml"/>
   </spine>
   <guide/>
 </package>
