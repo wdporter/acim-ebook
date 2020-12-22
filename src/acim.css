@@ -1,0 +1,18 @@
+
+p.principle {
+	font-weight: bold;
+}
+
+p.introduction {
+	font-style: italic;
+}
+
+blockquote.lead {
+	font-style: italic;
+  text-align: center;
+  font-size: large
+}
+
+blockquote.intro-summary {
+  font-weight: bold;
+}
