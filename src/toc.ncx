@@ -41,5 +41,17 @@
       </navLabel>
       <content src="chapter-4.xhtml"/>
     </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 5. Healing and Wholeness</text>
+      </navLabel>
+      <content src="chapter-5.xhtml"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter 6. The Lessons of Love</text>
+      </navLabel>
+      <content src="chapter-6.xhtml"/>
+    </navPoint>
   </navMap>
 </ncx>

@@ -12,6 +12,8 @@
     <item href="chapter-2.xhtml" id="chapter-2" media-type="application/xhtml+xml"/>
     <item href="chapter-3.xhtml" id="chapter-3" media-type="application/xhtml+xml"/>
     <item href="chapter-4.xhtml" id="chapter-4" media-type="application/xhtml+xml"/>
+    <item href="chapter-5.xhtml" id="chapter-5" media-type="application/xhtml+xml"/>
+    <item href="chapter-6.xhtml" id="chapter-6" media-type="application/xhtml+xml"/>
     <item href="introduction.xhtml" id="introduction" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
   </manifest>
@@ -21,6 +23,9 @@
     <itemref idref="chapter-2"/>
     <itemref idref="chapter-3"/>
     <itemref idref="chapter-4"/>
+    <itemref idref="chapter-5"/>
+    <itemref idref="chapter-6"/>
+
   </spine>
   <guide/>
 </package>

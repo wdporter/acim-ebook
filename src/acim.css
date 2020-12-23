@@ -2,18 +2,19 @@ h1, h2 {
 	text-align: center;
 }
 
-p.intro {
+.italic {
 	font-style: italic;
 }
 
-p.intro-quote {
+.bold {
 	font-weight: bold;
-	margin-left: 2.5em;
 }
 
-p.blockquote {
-	font-style: italic;
+.indent {
 	margin-left: 2.5em;
 	margin-right: 2.5em;
 }
 
+.double-indent {
+	margin-left: 5em;
+}
