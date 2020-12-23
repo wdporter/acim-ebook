@@ -29,5 +29,17 @@
       </navLabel>
       <content src="chapter-2.xhtml"/>
     </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter 3. The Innocent Perception</text>
+      </navLabel>
+      <content src="chapter-3.xhtml"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter 4. The Illusions of the Ego</text>
+      </navLabel>
+      <content src="chapter-4.xhtml"/>
+    </navPoint>
   </navMap>
 </ncx>
