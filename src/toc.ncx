@@ -19,24 +19,15 @@
     </navPoint>
     <navPoint id="num_2" playOrder="2">
       <navLabel>
-        <text>Chapter 1. Introduction to Miracles</text>
+        <text>Chapter 1. The Meaning of Miracles</text>
       </navLabel>
       <content src="chapter-1.xhtml"/>
     </navPoint>
     <navPoint id="num_3" playOrder="3">
       <navLabel>
-        <text>Chapter 2. Right Defence and Release from Fear</text>
+        <text>Chapter 2. The Separation and the Atonement</text>
       </navLabel>
       <content src="chapter-2.xhtml"/>
     </navPoint>
-
-
-    <navPoint id="num_50" playOrder="50">
-      <navLabel>
-        <text>Endnotes</text>
-      </navLabel>
-      <content src="endnotes.xhtml"/>
-    </navPoint>
-
   </navMap>
 </ncx>

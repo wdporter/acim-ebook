@@ -2,20 +2,17 @@ h1, h2 {
 	text-align: center;
 }
 
-p.principle {
+p.intro {
+	font-style: italic;
+}
+
+p.intro-quote {
 	font-weight: bold;
+	margin-left: 2.5em;
 }
 
-p.introduction {
+p.blockquote {
 	font-style: italic;
+	margin-left: 2.5em;
 }
 
-blockquote.lead {
-	font-style: italic;
-  text-align: center;
-  font-size: large
-}
-
-blockquote.intro-summary {
-  font-weight: bold;
-}
