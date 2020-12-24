@@ -53,5 +53,11 @@
       </navLabel>
       <content src="chapter-6.xhtml"/>
     </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter 7. The Gifts of the Kingdom</text>
+      </navLabel>
+      <content src="chapter-7.xhtml"/>
+    </navPoint>
   </navMap>
 </ncx>
