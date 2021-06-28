@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package unique-identifier="pub-id" version="3.0">
-	<metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id"
+	version="3.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="pub-id">urn:uuid:10a80d65-5e22-4bf3-8211-caabcbff58c7
 		</dc:identifier>
 		<dc:title>A Course in Miracles</dc:title>
@@ -25,10 +26,12 @@
 			media-type="application/xhtml+xml" />
 		<item href="introduction.xhtml" id="introduction"
 			media-type="application/xhtml+xml" />
-		<item href="nav.xhtml" properties="nav"
+		<item href="nav.xhtml" properties="nav" id="nav"
 			media-type="application/xhtml+xml" />
 	</manifest>
 	<spine>
+		<itemref idref="nav" />
+		<itemref idref="introduction" />
 		<itemref idref="introduction" />
 		<itemref idref="chapter-1" />
 		<itemref idref="chapter-2" />
