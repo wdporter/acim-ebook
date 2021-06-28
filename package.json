@@ -1,12 +1,15 @@
 {
-  "name": "ACourseInMiracles",
-  "version": "1.0.0",
-  "description": "",
-  "main": ".eleventy.js",
-  "scripts": {
-    "start": "npx eleventy --serve"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+	"name": "a-course-in-miracles",
+	"version": "1.0.0",
+	"description": "",
+	"main": ".eleventy.js",
+	"scripts": {
+		"start": "npx eleventy --serve"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@11ty/eleventy": "^0.12.1"
+	}
 }
