@@ -1,5 +1,9 @@
-# acim-ebook
+# ACIM ebook
 
-This is the FIP in my own language.
+This is the circle of a's book with footnotes and number removed.
 
-This will be an ebook, easy to read with no minimal distractions.
+Also, british-ify some of the spelling.
+
+Some of my own preferred grammar and punctuation.
+
+Easy to read with no minimal distractions.
